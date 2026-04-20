@@ -1,2 +1,3 @@
 # LW3-Merged-Data-DAX-and-DAX-Function-Insights
-[Laboratory.Work.3._.Merged.Data.DAX.and.DAX.Function.Insights.pdf](https://github.com/user-attachments/files/26882771/Laboratory.Work.3._.Merged.Data.DAX.and.DAX.Function.Insights.pdf)
+PDF File:
+https://docs.google.com/presentation/d/1zIJCYJHaTV5ggm_bdUGyWQ6jVMtW95PXHap9fClzyT0/edit?usp=sharing
